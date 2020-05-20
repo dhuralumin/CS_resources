@@ -58,6 +58,8 @@ Use the checklist below to get a rough measure of your knowledge.
 
 * [Programmer Competency Matrix](http://www.indiangeek.net/wp-content/uploads/Programmer%20competency%20matrix.htm)
 
+* [Fullstack Developer Roadmap](https://levelup.gitconnected.com/the-2020-web-developer-roadmap-76503ddfb327)
+
 ## Introductions to various specializations
 
 ### Graduate School
@@ -115,7 +117,7 @@ Use the checklist below to get a rough measure of your knowledge.
 
 ## Learning Stuff
 
-* (The Missing Semester of Your CS Education)[https://t.co/cOG9Jp3vFW?amp=1]
+* [The Missing Semester of Your CS Education](https://t.co/cOG9Jp3vFW?amp=1)
 
 * Pick a project to trick yourself into learning new technologies. [Drop by Hackerspace.SG](http://hackerspace.sg/)
 
